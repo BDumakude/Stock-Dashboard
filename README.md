@@ -1,6 +1,7 @@
 # Stock-Dashboard
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/bonga-dumakude-40b1102b8)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/bonga-dumakude-40b1102b8)
+
 
 ## Description
 A stock dashbooard that displays information relating to a company and has 4 tabs of information. The user may choose the start and end date for the information they wish to analyse.
