@@ -1,7 +1,7 @@
 # Stock-Dashboard
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/bonga-dumakude-40b1102b8)
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stockforecastdashboard.streamlit.app/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bonga-dumakude-40b1102b8)
 
 ## Description
 A stock dashbooard that displays information relating to a company and has 4 tabs of information. The user may choose the start and end date for the information they wish to analyse.
